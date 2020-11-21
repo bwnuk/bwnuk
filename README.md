@@ -6,7 +6,7 @@ My name is Bartłomiej Wnuk and I'm a Android developer. Mainly I'm interested i
 
 ## Technologies
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-blue?style=flat&logo=intellij-idea&logoColor=white)
-![](https://img.shields.io/badge/Editor-AndroidStudio-blue?style=flat&logo=android-studio&logoColor=white)
+![](https://img.shields.io/badge/Editor-Android Studio-blue?style=flat&logo=android-studio&logoColor=white)
 ![](https://img.shields.io/badge/Code-Android-blue?style=flat&logo=android&logoColor=white)
 ![](https://img.shields.io/badge/Code-Java-blue?style=flat&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Code-Kotlin-blue?style=flat&logo=kotlin&logoColor=white)
