@@ -12,7 +12,7 @@ My name is Bartłomiej Wnuk and I'm a Android developer. Mainly I'm interested i
 ![](https://img.shields.io/badge/Library-Jetpack-blue?style=flat&logo=android&logoColor=white)
 ![](https://img.shields.io/badge/Library-RxJava-blue?style=flat&logo=android&logoColor=white)
 ![](https://img.shields.io/badge/Framework-Spring-blue?style=flat&logo=spring&logoColor=white)
-![](https://img.shields.io/badge/Framework-Ktor-blue?style=flat&logo=ktor&logoColor=white)
+![](https://img.shields.io/badge/Framework-Ktor-blue?style=flat&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white)
 
 ## Github Stats
