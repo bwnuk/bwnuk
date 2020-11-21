@@ -1,7 +1,15 @@
 ### Hi there 👋
 
-## Github Stats
+## Technologies
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-blue?style=flat&logo=intellij-idea&logoColor=white)
+![](https://img.shields.io/badge/Code-Android-blue?style=flat&logo=android&logoColor=white)
+![](https://img.shields.io/badge/Code-Java-blue?style=flat&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Code-Kotlin-blue?style=flat&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/Library-Jetpack-blue?style=flat&logo=android&logoColor=white)
+![](https://img.shields.io/badge/Library-RxJava-blue?style=flat&logo=android&logoColor=white)
+![](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white)
 
+## Github Stats
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwnuk" />
 </a>
