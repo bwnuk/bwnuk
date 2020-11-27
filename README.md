@@ -18,13 +18,13 @@ My name is Bartłomiej Wnuk and I'm a Android developer. Mainly I'm interested i
 ![](https://img.shields.io/badge/Code-ML-blue?style=flat&logo=tensorflow&logoColor=white)
 
 ## Github Stats
-
+<a href="https://github.com/bwnuk/bwnuk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwnuk1" />
+</a>
 <a href="https://github.com/bwnuk/bwnuk">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bwnuk&"/>
 </a>
-<a href="https://github.com/bwnuk/bwnuk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwnuk" />
-</a>
+
 
 <!-- Sources 
 https://github.com/MartinHeinz/MartinHeinz
