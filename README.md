@@ -19,7 +19,7 @@ My name is Bartłomiej Wnuk and I'm a Android developer. Mainly I'm interested i
 
 ## Github Stats
 <a href="https://github.com/bwnuk/bwnuk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwnuk" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwnuk&cache_second=1800" />
 </a>
 <a href="https://github.com/bwnuk/bwnuk">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bwnuk&"/>
